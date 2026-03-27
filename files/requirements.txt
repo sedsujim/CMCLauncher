@@ -1,0 +1,3 @@
+pyside6
+minecraft_launcher_lib
+pypresence
